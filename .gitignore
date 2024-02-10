@@ -1,7 +1,5 @@
 chapter_urls
 chapters_text/*
-!chapters_text/.gitignore
 chapters/*
-!chapters/.gitignore
 .venv*
 .idea*
